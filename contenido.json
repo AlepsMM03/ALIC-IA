@@ -1,0 +1,23 @@
+{"contenido":[
+  {"tag": "saludo",
+    "patrones":["hola Alicia","hello Alicia"],
+    "respuestas":["Hola!!""Un gusto de verte"]
+  },
+  {"tag":"despedida",
+    "patrones":["adios","hasta la proxima","nos vemos"],
+    "respuestas":["cuidate","nos vemos pronto","te estare esperando"]
+  },
+  {"tag":"desayuno",
+    "patrones":["desayuno","desayunar","hambre"],
+    "respuestas":["Que quieres comer?","Yo tambien :(","Ay, tu siempre!!!"]
+  },
+  {"tag":"estado",
+    "patrones":["muy bien, como estas?","que tal?"],
+    "respuestas":["Muy bien y tu?","Todo bien y tu?"]
+  },
+  {"tag":"contento",
+    "patrones":["Feliz","contento","alegre"],
+    "respuestas":["Me parece excelente, que haces?"]
+  }
+  ]
+}
